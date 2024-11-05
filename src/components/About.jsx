@@ -3,7 +3,7 @@ import iron from '../assets/image/electric-iron.jpg'
 
 function About() {
   return (
-    <section className="section-about">
+    <section id='about' className="section-about">
       <div className="section-box-title">
         <h1 className="section-title">About Us</h1>
         <p className="section-sub-title">Follow instruction for more</p>
